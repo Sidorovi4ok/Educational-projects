@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>icons/ethernet.png</file>
+        <file>icons/keyword.png</file>
+    </qresource>
+</RCC>
